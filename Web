@@ -1,0 +1,619 @@
+
+<!DOCTYPE html>
+<html lang="zxx" class="js">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Softnio">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="E-verify is a Background check platform on Blockchain">
+    <link rel="shortcut icon" href="images/favicon.png">
+    <title>E-verify :: Background check on Blockchain</title>
+    <link rel="stylesheet" href="assets/css/vendor.bundle059a.css?ver=124">
+    <link rel="stylesheet" href="assets/css/style059a.css?ver=124">
+    <link rel="stylesheet" href="assets/css/theme059a.css?ver=124" id="layoutstyle">
+</head>
+<body class="theme-dark io-lobelia" data-spy="scroll" data-target="#mainnav" data-offset="80">
+    <header class="site-header is-sticky">
+        <div id="particlesaa-js" class="particlesaa-container particlesaa-js"></div>
+        <div class="navbar navbar-expand-lg is-transparent" id="mainnav">
+            <nav class="container"><a class="navbar-brand animateds" data-animate="fadeInDown" data-delay=".65" href="index.php">
+                <img class="logo logo-dark" alt="logo" src="images/logo.png" srcset="images/logo2x.png 2x"><img class="logo logo-light" alt="logo" src="images/logo-white.png" srcset="images/logo-white2x.png 2x"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle"><span class="navbar-toggler-icon"><span class="ti ti-align-justify"></span></span></button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarToggle">
+                    <ul class="navbar-nav animateds remove-animation" data-animate="fadeInDown" data-delay=".9">
+                    <li class="nav-item"><a class="nav-link menu-link" href="index.php">Home<span class="sr-only">(current)</span></a></li>
+                        <li class="nav-item"><a class="nav-link menu-link" href="#intro">About<span class="sr-only">(current)</span></a></li>
+                        <li class="nav-item"><a class="nav-link menu-link" href="#tokenSale">Token Information</a></li>
+                        <li class="nav-item"><a class="nav-link menu-link" href="#roadmap">Roadmap</a></li>
+                        <li class="nav-item"><a class="nav-link menu-link" href="#team">Team</a></li>
+                        <li class="nav-item"><a class="nav-link menu-link" href="#contact">Contact</a></li>
+
+                    </ul>
+<ul class="navbar-nav navbar-btns animateds remove-animation" data-animate="fadeInDown" data-delay="1.15">
+<li class="nav-item"><a class="nav-link btn btn-sm btn-outline menu-link" href="#airdrop">Airdrop</a></li>
+</ul>
+                </div>
+            </nav>
+        </div>
+        <div id="header" class="banner banner-curb banner-full d-flex align-items-center">
+            <div class="container">
+                <div class="banner-content">
+                    <div class="row justify-content-center align-items-center text-center">
+                        <div class="col-lg-10">
+                            <div class="header-image-lobelia animateds" data-animate="fadeInUp" data-delay="1.25">
+                                <img src="images/lobelia/header-image-lobelia.png" alt="header"></div>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="header-txt">
+                                <h2 class="animateds" data-animate="fadeInUp" data-delay="1.55">E-Verify, Identity Verification and Information Security on Blockchain.</h2>
+                            <!--     <p class="lead color-primary animated" data-animate="fadeInUp" data-delay="1.65">E-verify is a blockchain technology that allows employers to do a background check on their employee in seconds. It is also used daily by people looking for a nanny, tutor or handyman.
+                                    <br class="d-none d-md-block">
+                                    Like us on facebook and join our telegram channel, First 20,000 people gets 100,000 EVER airdrop.</p> -->
+                                <ul class="btns animateds" data-animate="fadeInUp" data-delay="1.75">
+                                    <li><a href="purchase.php" class="btn btn-alt">Purchase Token</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="section section-pad section-bg" id="intro">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="section-head">
+                        <h2 class="section-title animateds" data-animate="fadeInUp" data-delay="0">What is E-Verify?
+						
+                            <span>What</span></h2>
+                        <p class="animateds" data-animate="fadeInUp" data-delay=".1">E-verify is a first of its kind, decentralized background check and identity verification technology. It provides, a fast, efficient, unalterable and dynamic alternative to existing methods. With a wide range of use case, e-verify would Secure partnership with small and large companies both in private and public sectors, It will also provide everyday users with the tool to ensure that their next nanny, tutor or handyman hire is properly verified.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-md-5">
+                    <div class="res-m-btm imgfix animateds" data-animate="fadeInUp" data-delay=".2">
+                        <img src="images/lobelia/graph-lobelia-a.png" alt="graph"></div>
+                </div>
+                <div class="col-md-6 offset-md-1">
+                    <ul class="features-list-s2">
+                        <li class="features-item-s2 d-flex animateds" data-animate="fadeInUp" data-delay=".3">
+                            <div class="features-icon-s2">
+                                <img src="images/lobelia/icon-decentralized.png" alt="icon">
+                            </div>
+                            <div class="features-texts-s2">
+                                <h5 class="features-title-s2">Decentralized Technology</h5>
+                                <p>Based on a distributed ledger system</p>
+                            </div>
+                        </li>
+                        <li class="features-item-s2 d-flex animateds" data-animate="fadeInUp" data-delay=".4">
+                            <div class="features-icon-s2">
+                                <img src="images/lobelia/icon-crowd.png" alt="icon"></div>
+                            <div class="features-texts-s2">
+                                <h5 class="features-title-s2">Background Checker</h5>
+                                <p>Robust storage of Records with regular dynamic update</p>
+                            </div>
+                        </li>
+                        <li class="features-item-s2 d-flex animateds" data-animate="fadeInUp" data-delay=".5">
+                            <div class="features-icon-s2">
+                                <img src="images/lobelia/icon-reward.png" alt="icon"></div>
+                            <div class="features-texts-s2">
+                                <h5 class="features-title-s2">Identity Verifier</h5>
+                                <p>Verify that the user of the platform is the real person</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="section section-pad no-pt section-bg">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-8 offset-md-2">
+                    <div class="section-head">
+                        <h2 class="section-title animateds" data-animate="fadeInUp" data-delay="0">USE CASES
+						
+                            <span>CASES</span></h2>
+                        <p class="animateds" data-animate="fadeInUp" data-delay=".1">E-Verify has diverse use case, some of these are:</p>
+                    </div>
+                </div>
+            </div>
+            <div class="solution-list text-center">
+                <div class="row">
+                    <div class="col-md-6 col-lg-3">
+                        <div class="solution-item animateds" data-animate="fadeInUp" data-delay=".2">
+                            <div class="solution-icon">
+                                <img src="images/lobelia/icon-relational-blockchain.png" alt="icon"></div>
+                            <h5 class="solution-title">Background Checking Platform</h5>
+                            <p>A platform that allows companies retrieve background check on Employee in seconds but with the consent of the employee. </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="solution-item animateds" data-animate="fadeInUp" data-delay=".3">
+                            <div class="solution-icon">
+                                <img src="images/lobelia/icon-connect.png" alt="icon"></div>
+                            <h5 class="solution-title">Security Plugin</h5>
+                            <p>Plugin with ease of implementation on already existing platforms that guarantee robust security</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="solution-item animateds" data-animate="fadeInUp" data-delay=".4">
+                            <div class="solution-icon">
+                                <img src="images/lobelia/icon-networks.png" alt="icon"></div>
+                            <h5 class="solution-title">Platform Verification Protocol</h5>
+                            <p>A fast and efficient protocol for login verification</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="solution-item animateds" data-animate="fadeInUp" data-delay=".5">
+                            <div class="solution-icon">
+                                <img src="images/lobelia/icon-server.png" alt="icon">
+                            </div>
+                            <h5 class="solution-title">Security Service</h5>
+                            <p>Development of Security softwares and apps that runs in parallel with other platform</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section section-pad section-bg" id="tokenSale">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                    <div class="section-head">
+                        <h2 class="section-title animateds" data-animate="fadeInUp" data-delay="0">TOKEN Metrics
+						
+                            <span>TOKEN</span></h2>
+                        <p class="animateds" data-animate="fadeInUp" data-delay=".1">E-Verify token is an  Ethereum based token.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+
+
+                <div class="col-lg-4">
+                    <div class="countdown-box text-center animateds" data-animate="fadeInUp" data-delay=".8">
+                        <div class="token-countdown d-flex align-content-stretch" ></div>
+               <h4>Token Information</h4>
+<ul>
+<li><strong>Token Name:</strong> E-Verify</li>
+<li><strong>Token Symbol:</strong> EVER</li>
+<li><strong>Type:</strong> ERC20</li>
+<li><strong>Payment:</strong> ETH</li>
+<li><strong>Decimal:</strong> 4</li>
+<li><strong>ERC20 Contract:</strong> <span style="font-size: 11.5px;" class="">0xadb631167DdE6222efE66478ACD3Cd68e192a270</span></li>
+</ul>                 
+
+                    </div>
+                </div>
+                                <div class="col-lg-4">
+                    <div class="countdown-box text-center animateds" data-animate="fadeInUp" data-delay=".8">
+                        <div class="token-countdown d-flex align-content-stretch" ></div>
+                    <h4>Token Distribution</h4>
+                           <ul>
+<li><strong>Total Supply:</strong> 50,000,000,000 EVER</li>
+<li><strong>Public Sale:</strong> 50%</li>
+<li><strong>Partnership Reserve:</strong> 20%</li>
+<li><strong>Company Reserve:</strong> 10%</li>
+<li><strong>EVER Team:</strong> 15%</li>
+<li><strong>Bounty Hunt Airdrop:</strong> 5%</li>
+</ul>               
+
+
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="countdown-box text-centers animateds" data-animate="fadeInUp" data-delay=".8">
+                        <div class="token-countdown d-flex align-content-stretch" ></div>
+                        <h4>Token Sales</h4>
+                           <ul>
+<li><strong>Public Sales Price:</strong> 0.00000010 ETH/EVER</li>
+<li><strong>Minumum Contribution:</strong> 0.05 ETH</li>
+<li><strong>Bonus:</strong> 20%</li>
+<li><strong>Sales Period:</strong> 10 June, 2018 - 25 July, 2018</li>
+
+</ul>                   
+
+                        <a href="purchase.php" class="btn btn-alt btn-sm">Purchase TOKEN NOW</a>
+                        <br /><br />
+                         <h6 class="btn-outline menu-link">AMOUNT OF EVER LEFT</h6>
+
+             <div class="counter col_fourth">
+      <h6><em class="btn-outline menu-link">24,999,486,953</em></h6>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+
+            
+
+<p class="" style="padding: 10px;"><strong>
+    To purchase EVER, Send ETH to: 0x12D95431735D7F80dCb58a80ad6C63Ad8B6e8769 <br />
+Note: Your Must send ETH from a local ERC20-supported wallet, DO NOT use an ETH Wallet Address from an Exchange like coinbase, Bittrex or Binance because your EVER will not be able to be credited.<br />
+
+All Unsold token in the sales will be burnt, the percentage of unsold token will also be burnt in the total supply.
+<br />
+
+Listing on exchanges will commence by 1st July and by the close of the sales, we plan to be on at least 5 exchanges.
+</strong></p><hr />
+
+
+        </div>
+    </div>
+    <div class="section section-pad section-bg-alt section-connect" id="roadmap">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="section-head">
+                        <h2 class="section-title animateds" data-animate="fadeInUp" data-delay="0">Our Roadmap
+						
+                            <span>RoadMap</span></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-list">
+                <div class="row">
+                    <div class="col-md-4 offset-md-6">
+                        <div class="timeline-content  active animateds" data-animate="fadeInUp" data-delay=".1">
+                            <h6>July 2017 - March 2018</h6>
+                            <p>Technology Research</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 offset-md-2 text-md-right">
+                        <div class="timeline-content timeline-content-left active animateds" data-animate="fadeInUp" data-delay=".2">
+                            <h6>April 2018 - May 2018</h6>
+                            <p>Market Research</p>
+                        </div>
+                </div>
+            </div>
+                       <div class="row">
+                    <div class="col-md-4 offset-md-6">
+                        <div class="timeline-content  active animateds" data-animate="fadeInUp" data-delay=".1">
+                            <h6>June 2018 - July 2018</h6>
+                            <p>Token Sales, Exhange listings, Website update</p>
+                        </div>
+                    </div>
+                </div>
+     
+              <div class="row">
+                    <div class="col-md-4 offset-md-2 text-md-right">
+                        <div class="timeline-content timeline-content-left animateds" data-animate="fadeInUp" data-delay=".4">
+                            <h6>August 2018</h6>
+                            <p>Hire of Developers</p>
+                        </div>
+                    </div>
+                </div>
+
+
+           <div class="row">
+                    <div class="col-md-4 offset-md-6">
+                        <div class="timeline-content active animateds" data-animate="fadeInUp" data-delay=".1">
+                            <h6>Q1 2019</h6>
+                            <p>Integration and Deployment of Platform (Web and APps)</p>
+                        </div>
+                    </div>
+                </div>
+
+                   <div class="row">
+                    <div class="col-md-4 offset-md-2 text-md-right">
+                        <div class="timeline-content timeline-content-left active animateds" data-animate="fadeInUp" data-delay=".2">
+                            <h6>Q2 2019</h6>
+                            <p>Secure Partnership and Expansion: South America, India and Africa</p>
+                        </div>
+                </div>
+            </div>
+
+           <div class="row">
+                    <div class="col-md-4 offset-md-6">
+                        <div class="timeline-content active animateds" data-animate="fadeInUp" data-delay=".1">
+                            <h6>Q3 2019</h6>
+                            <p>Integration and Deployment of Security Plugin</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                   <div class="row">
+                    <div class="col-md-4 offset-md-2 text-md-right">
+                        <div class="timeline-content timeline-content-left active animateds" data-animate="fadeInUp" data-delay=".2">
+                            <h6>Q4 2019</h6>
+                            <p>Platform Verification Protocol</p>
+                        </div>
+                </div>
+            </div>
+
+        <div class="row">
+                    <div class="col-md-4 offset-md-6">
+                        <div class="timeline-content active animateds" data-animate="fadeInUp" data-delay=".1">
+                            <h6>Q1 2020 - Q2 2020</h6>
+                            <p>More Partnership and Expansion - Europe & North America</p>
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="row">
+                    <div class="col-md-4 offset-md-2 text-md-right">
+                        <div class="timeline-content timeline-content-left active animateds" data-animate="fadeInUp" data-delay=".2">
+                            <h6>Q3 2020 and beyond</h6>
+                            <p>Expansion Worldwide</p>
+                        </div>
+                </div>
+            </div>
+
+
+                   <div class="row">
+                    <div class="col-md-4 offset-md-2 text-md-right">
+                        <div class="timeline-content timeline-content-left animateds" data-animate="fadeInUp" data-delay=".6">
+                            <h6>2020</h6>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="section section-pad no-pb section-bg section-fix" id="team">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+                    <div class="section-head">
+                        <h2 class="section-title animateds" data-animate="fadeInUp" data-delay=".1">Team
+						
+                            <span>Team</span></h2>
+                        <p class="animateds" data-animate="fadeInUp" data-delay=".1"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".2">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-a-sq.jpg" alt="team"></div>
+                        <h5>Shola Otitoju</h5>
+                        <span>Founder and CEO</span><p>Ph.D Candidate and a Blockchain technology enthusiast with business accumen.</p>
+                        <ul class="team-circle-social">
+                            <li><a href="https://www.linkedin.com/in/shola-otitoju-03b41b3b/"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".3">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-w-sq.jpg" alt="team"></div>
+                        <h5>Wasim Alhamdani </h5>
+                        <span>Crypto Advisor &amp;  Dev. Director </span><p>Professor of Cryptography and Cybersecurity at UoT Cumberland.<br /><br /> </p>
+                        <ul class="team-circle-social">
+                            <li><a href="https://www.linkedin.com/in/wasim-alhamdani-09149a45/"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".4">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-c-sq.jpg" alt="team"></div>
+                        <h5>Emmanuel A. EKoja</h5>
+                        <span>Developer</span><p> Industry experience with C#, PHP, Java, Python, Javascript, SQL, Xamarin. </p>
+                        <ul class="team-circle-social">
+                            <li><a href="https://www.linkedin.com/in/emmanuel-ekoja-4b924826/"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".5">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-d-sq.jpg" alt="team"></div>
+                        <h5>Obinna M. Obi</h5>
+                        <span>Developer</span><p>Proven ability to design, develop and implement IoT solutions used by Fortune 100 Companies.</p>
+                        <ul class="team-circle-social">
+                            <li><a href="https://www.linkedin.com/in/obinnamichaelobi/"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+                <div class="row text-center">
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".2">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-z-sq.jpg" alt="team"></div>
+                        <h5>Zia Khatri</h5>
+                        <span>Financial Consultant</span><p>Financial advisor specialized in risk management,  Stocks, Commodities, Cryptocurrencies and software /web development</p>
+                        <ul class="team-circle-social">
+                            <li><a href="https://www.linkedin.com/in/zia-khatri-financial-advisor-cifa-ifmp-26677914/"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".3">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-e-sq.jpg" alt="team"></div>
+                        <h5>We're hiring! </h5>
+                        <span>Join E-Verify Team!</span><p></p>
+                        <ul class="team-circle-social">
+                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".4">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-e-sq.jpg" alt="team"></div>
+                        <h5>We're hiring! </h5>
+                        <span>Join E-Verify Team!</span><p></p>
+                        <ul class="team-circle-social">
+                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".5">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-e-sq.jpg" alt="team"></div>
+                        <h5>We're hiring! </h5>
+                        <span>Join E-Verify Team!</span><p></p>
+                        <ul class="team-circle-social">
+                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+     <!--        <div class="row">
+                <div class="col-md-12">
+                    <div class="gaps size-2x"></div>
+                    <h3 class="sub-heading ucap animateds" data-animate="fadeInUp" data-delay=".6">Advisors</h3>
+                    <div class="gaps size-2x"></div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".7">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-e-sq.jpg" alt="team"></div>
+                        <h5></h5>
+                        <span>Board Advisor</span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incide.</p>
+                        <ul class="team-circle-social">
+                            <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
+                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                            <li><a href="#"><em class="fab fa-twitter"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".8">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-f-sq.jpg" alt="team"></div>
+                        <h5></h5>
+                        <span>Board Advisor</span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incide.</p>
+                        <ul class="team-circle-social">
+                            <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
+                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                            <li><a href="#"><em class="fab fa-twitter"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 animateds" data-animate="fadeInUp" data-delay=".9">
+                    <div class="team-circle-des">
+                        <div class="team-circle-img">
+                            <img src="images/team-g-sq.jpg" alt="team"></div>
+                        <h5></h5>
+                        <span>Board Advisor</span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incide.</p>
+                        <ul class="team-circle-social">
+                            <li><a href="#"><em class="fab fa-facebook-f"></em></a></li>
+                            <li><a href="#"><em class="fab fa-linkedin-in"></em></a></li>
+                            <li><a href="#"><em class="fab fa-twitter"></em></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+
+    <div class="section section-pad section-bg" id="contact">
+        <div class="container">
+            <div class="row text-center">
+
+                <div class=" col-md-8 order-2">
+                    <div class="section-head">
+                                            <h2 class="section-title animateds" data-animate="fadeInUp" data-delay="0">Contact E-Verify Today
+						
+                            <span>Contact</span></h2>
+                        <p class="animateds" data-animate="fadeInUp" data-delay=".1">Any question? Reach out to us and we’ll get back to you shortly.</p>
+                    </div>
+
+
+
+                    <ul class="contact-info">
+                        <li class="animateds" data-animate="fadeInUp" data-delay=".3"><em class="fa fa-envelope"></em><span>info@e-ver.io</span></li>
+
+                        <li class="animateds" data-animate="fadeInUp" data-delay=".2"><a target="_blank" href="https://www.facebook.com/everify/"><em class="fab fa-facebook-f rounded-circle"></em><span></span></a></li>
+                        <li class="animateds" data-animate="fadeInUp" data-delay=".25"><a target="_blank" href="https://twitter.com/EverToken"><em class="fab fa-twitter rounded-circle"></em><span></span></a></li>
+                         <li class="animateds" data-animate="fadeInUp" data-delay=".45"><a target="_blank" href="https://bitcointalk.org/index.php?topic=4503061.0"><em class="fab fa-bitcoin"></em><span></span></a></li>
+              <li class="animateds" data-animate="fadeInUp" data-delay=".45"><a target="_blank" href="https://medium.com/@EVERToken"><em class="fab fa-medium-m"></em><span></span></a></li>
+                         <li class="animateds" data-animate="fadeInUp" data-delay=".45"><a target="_blank" href="https://t.me/joinchat/FucuoA6aM95v4flWP1LbsQ"><em class="fa fa-paper-plane"></em><span></span></a></li>
+
+                    </ul>
+           
+                    <form id="contact-formqqqq" class="form-message text-center" action="index.php#contact" method="post">
+                        <div class="form-results"></div>
+                        <div class="input-field animateds" data-animate="fadeInUp" data-delay=".5">
+                            <input name="contactname" type="text" class="input-line required"><label class="input-title">Your Name</label></div>
+                        <div class="input-field animateds" data-animate="fadeInUp" data-delay=".6">
+                            <input name="contactemail" type="email" class="input-line required email"><label class="input-title">Your Email</label></div>
+                        <div class="input-field animateds" data-animate="fadeInUp" data-delay=".7">
+                            <textarea name="contactmessage" class="txtarea input-line required"></textarea><label class="input-title">Your Message</label></div>
+                        <input type="text" class="d-none" name="form-anti-honeypot" value=""><div class="input-field animateds" data-animate="fadeInUp" data-delay=".8">
+                            <button type="submit" class="btn">Submit</button></div>
+                    </form>
+
+                
+                </div>
+                 <div class=" col-md-3 order-1 order-md-3" id="airdrop">
+                    <div class="countdown-box text-center animateds" data-animate="fadeInUp" data-delay=".8">
+                        <div class="token-countdown d-flex align-content-stretch" ></div>
+                    <h4>AIRDROP</h4>
+<p>For Latest on Airdrops, check updates on
+<ul class="airdropnums">
+    <li>Facebook</li>
+    <li>Twitter</li>
+     <li>Bitcoin talk</li>
+     <li>Telegram</li>
+</ul>
+</p>             
+
+
+                    </div>
+                </div>
+
+            <div class="row">
+ 
+                <div class="col-lg-6 offset-lg-2">
+
+                </div>
+
+
+
+            </div>
+
+
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <div class="section footer-scetion section-bg-alt">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-12">
+
+                                
+                                <a target="_blank" class="nav-link btn btn-sm btn-outline menu-link" href="assets/docs/E-Verify_Onepager.pdf" download="E-Verify One Pager">Download E-Verify One Pager</a> | <a class="nav-link btn btn-sm btn-outline menu-link" href="#" >Download Whitepaper (coming soon)</a>
+
+
+                    <span class="copyright-text animateds" data-animate="fadeInUp" data-delay=".55">Copyright &copy; 2018, <a href="http://e-ver.io/" target="_blank">E-verify</a>.  
+					</span>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    <script src="assets/js/jquery.bundle059a.js?ver=124"></script>
+    <script src="assets/js/script059a.js?ver=124"></script>
+</body>
+</html>
